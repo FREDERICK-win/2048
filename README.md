@@ -1,5 +1,5 @@
 # 2048
 
-The famous game written in js.
+The famous sliding tile puzzle.
 
 At some point I want to re-write it using Vue.
